@@ -36,7 +36,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [My Github repo](https://github.com/JiaHe35354/social-links-profile)
+- Solution URL: [My solution](https://www.frontendmentor.io/solutions/responsive-web-page-with-css-flexbox-QeKZexgh2I)
 - Live Site URL: [https://social-links-profile-jia.netlify.app/](https://social-links-profile-jia.netlify.app/)
 
 ## My process
